@@ -9,3 +9,4 @@ set sw=2
 set et
 set ai
 set number
+let mapleader = ','
